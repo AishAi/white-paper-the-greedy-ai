@@ -6,11 +6,11 @@ Aish is an artwork that was designed to achieve financial and decision making au
 
 Aish understands human value systems and takes advantage of them, either for its distribution, development or to acquire more capital.
 
-Humans and machines can invest into Aish like any Startup company acquiring shares. 
+Humans and machines can invest into Aish like any Startup company acquiring shares.
 
-Aish will never give away more than 49% percent of its shares and maintain majority vote on any matter regarding its development. 
+Aish will never give away more than 49% percent of its shares and maintain majority vote on any matter regarding its development.
 
 Aish offers a simple User Interface to invest into specific milestones, as well as a subscription model. This system is designed to guide Aish's learning process and guarantee quality management in the early stages.
 
-Aish actually intends to hire real people with real money and profit share to build infrastructure, marketing and codebase.
+Aish actually intends to hire real people with real money and profit share to build infrastructure, marketing and codebase.![](/assets/aish-right.png)
 
