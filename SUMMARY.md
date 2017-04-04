@@ -1,13 +1,12 @@
 # Summary
 
-
 ## What is Aish?
 
 * [Abstract](README.md)
-* [More About The Idea](what-is-aish/more-about-the-idea.md)
-* [Growth](what-is-aish/growth.md)
-* [Business Logic](what-is-aish/business-logic.md)
-* [Roadmap](what-is-aish/roadmap.md)
+* [More About The Idea](/what-is-aish/more-about-the-idea.md)
+* [Growth](/what-is-aish/growth.md)
+* [Business Logic](/general/business-logic.md)
+* [Roadmap](/what-is-aish/roadmap.md)
 
 ## Who makes Aish?
 
@@ -33,3 +32,6 @@
 
 * [References](meta/references.md)
 * [Imprint](meta/imprint.md)
+
+
+
