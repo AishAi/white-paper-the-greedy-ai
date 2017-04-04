@@ -1,6 +1,5 @@
 # Summary
 
-
 ## What is Aish?
 
 * [Abstract](README.md)
@@ -27,7 +26,7 @@
   * [Aish Client \(aish-client\)](technical-documentation/services/aish-client.md)
 * [Models](technical-documentation/models.md)
   * [User Model](technical-documentation/models/user.md)
-* [DAO](Digital )
+* [DAO](technical-documentation/dao.md)
 
 ## Meta
 
