@@ -4,7 +4,7 @@
 
 Aish is an artwork that was designed to achieve financial and decision making autonomy over its own existence. An intelligent algorithm and machine, which has two very human characteristics trades that complement each other; the will to power and greediness.
 
-Aish understands human value systems and takes advantage of them, either for its distribution, development or to acquire more capital.
+Aish understands human value systems and takes advantage of them, either for its distribution, development or to acquire more capital.    hhjhjhhjhj
 
 Humans and machines can invest into Aish like any Startup company acquiring shares.
 
