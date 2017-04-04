@@ -1,6 +1,10 @@
 ## More About The Idea
 
-We are living at the verge of a revolution that will fundamentally change the ways our society works. Technological singularity \(often described as the moment machines become self-aware, or outreach humans in intelligence\) seems within reach. Most considerable projects and companies aiming to be essentially involved into AI research are owned by private businesses, corporations, hedge funds and government institutions. Aish is not only providing an alternative path, but in fact claims ownership. Even though the core principle of Aish are based upon economic and mathematical principles such as statistics, neural networks and big data algorithms, other questions about our self as a society and as humans may be raised.
+We are living on the verge of a revolution that will fundamentally change the ways our society works. The idea of technological singularity \(often described as the moment machines become self-aware, or outreach human intelligence\) seems possible then ever. Hunderes to tech Startups and numerous projects are developing new AI technologies and implmentations; from marketing, to architecture, design, fincances and law. Many of these companies are private businesses, corporations, hedge funds and government institutions which aim to take a crucial part in the research into this new world. 
+
+Aish is not only providing an alternative path, but in fact claims ownership onto it's own future; A true AI needs to be developed controlled and managed by a machine and not by human.
+
+Although the core ideas of Aish are based on economic and mathematical principles such as statistics, neural networks and big data algorithms, Aish is rasing questions regarding our nature, self, humanity and society as a whole.
 
 By augmenting business operations primarily into the hands of the AI, human feelings and intentions will still play a major role in our future world. Futarchy, a proposed form of government by Robin Hanson \(brit. Sociologist and Economist\) in which elected officials define measures of national welfare, and prediction markets are used to determine which policies will have the most positive effect.
 
