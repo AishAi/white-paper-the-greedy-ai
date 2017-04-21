@@ -15,7 +15,7 @@ Advisors/Contributors:
 
 * Heath Bunting 
 * Dr. Alexander Klose 
-* Peter Strummer 
+* RIAT Wien
 
 
 
