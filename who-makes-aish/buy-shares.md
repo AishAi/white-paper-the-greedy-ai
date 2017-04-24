@@ -4,7 +4,7 @@ Aish Shares will start trading on September 1st 2017 at an initial price of 30 E
 
 Request share reservations \(limited\).
 
-> Buying shares is the fastest way to increase your stake holds. Your investment will have immediate affect on a specific milestone. We recommend this model for expert investors who
+> Buying shares is the fastest way to increase your stake holds. Your investment will have immediate effect on a specific milestone. We recommend this model for expert investors who want to guide Aish.
 
 ## When can I buy shares?
 

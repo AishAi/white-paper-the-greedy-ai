@@ -15,6 +15,7 @@
 * [Subscription](who-makes-aish/subscription.md)
 * [Milestone Submission](who-makes-aish/milestone-submissions.md)
 * [Bug Submission](who-makes-aish/bug-submission.md)
+* [Values](values.md)
 
 ## Technical Documentation
 
@@ -26,9 +27,17 @@
   * [Aish Client \(aish-client\)](technical-documentation/services/aish-client.md)
 * [Models](technical-documentation/models.md)
   * [User Model](technical-documentation/models/user.md)
+  * Device Model
+  * Account Model
+  * Milestone Model
+  * Payment Model
+  * Potential Model
+  * [Role Model](technical-documentation/models/role-model.md)
 * [DAO](technical-documentation/dao.md)
+* [Scrum](technical-documentation/scrum.md)
 
 ## Meta
 
 * [References](meta/references.md)
 * [Imprint](meta/imprint.md)
+
