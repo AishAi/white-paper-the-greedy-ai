@@ -19,6 +19,7 @@
 
 ## Technical Documentation
 
+* [Assumptions](technical-documentation/assumptions.md)
 * [Services](technical-documentation/services.md)
   * [Aish Core \(aish-core\)](technical-documentation/services/aish-core.md)
   * [Aish Api \(aish-api\)](technical-documentation/services/aish-api.md)
@@ -27,11 +28,11 @@
   * [Aish Client \(aish-client\)](technical-documentation/services/aish-client.md)
 * [Models](technical-documentation/models.md)
   * [User Model](technical-documentation/models/user.md)
-  * Device Model
-  * Account Model
-  * Milestone Model
-  * Payment Model
-  * Potential Model
+  * [Device Model](technical-documentation/models/device-model.md)
+  * [Account Model](technical-documentation/models/account-model.md)
+  * [Milestone Model](technical-documentation/models/milestone-model.md)
+  * [Payment Model](technical-documentation/models/payment-model.md)
+  * [Potential Model](technical-documentation/models/potential-model.md)
   * [Role Model](technical-documentation/models/role-model.md)
 * [DAO](technical-documentation/dao.md)
 * [Scrum](technical-documentation/scrum.md)

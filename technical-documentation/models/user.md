@@ -1,4 +1,4 @@
-## User Model
+# User Model
 
 Anyone interacting with Aish.
 
