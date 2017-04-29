@@ -16,7 +16,7 @@ Each milestone requires an estimate budget and a distinct User Story \(US\). Ais
 
 * Submitting new milestones
 
-* Work Contribution \(TODO\)
+* Work Contribution
 
 ---
 
