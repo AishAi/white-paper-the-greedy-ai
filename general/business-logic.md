@@ -1,4 +1,4 @@
-### **Milestones towards Singularity \(Updated\)**
+### **Milestones towards Singularity**
 
 Shareholders \(Collectors\) will interact with Aish and its milestones through trading their shares\(¤S\) and acquiring new ones. These shares are a Ethereum based crypto-currency called Aish Shares \(¤\). Aish shares are not limited by default and can be acquired by real money in any currency and/or fulfilling milestones \(work\).
 
@@ -18,5 +18,7 @@ Each milestone requires an estimate budget and a distinct User Story \(US\). Ais
 
 * Work Contribution \(TODO\)
 
-**    **
+---
+
+
 
