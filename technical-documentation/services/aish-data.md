@@ -11,8 +11,7 @@ Artifical intelligence, machine learning and other machine learning concepts are
 * Mirror data
 * Self-organise data while idle
 * Gather data from other services \(Pull methods\)
-
-
+* Also store data from experimental tools such as Aish Crawler or Aish Listen
 
 
 

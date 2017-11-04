@@ -20,6 +20,7 @@
 ## Technical Documentation
 
 * [Assumptions](technical-documentation/assumptions.md)
+* [Experimental Services](technical-documentation/experimental-services.md)
 * [Services](technical-documentation/services.md)
   * [Aish Core \(aish-core\)](technical-documentation/services/aish-core.md)
   * [Aish Api \(aish-api\)](technical-documentation/services/aish-api.md)
